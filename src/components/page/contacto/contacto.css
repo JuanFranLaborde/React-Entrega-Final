@@ -1,0 +1,26 @@
+.contacto {
+  display: flex;
+  flex-direction: row;
+  background-color: #F2F4F3;
+
+}
+.formulario {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  gap: 1rem;
+  width: 50vw;
+  padding-inline: 1.5rem;
+  padding-bottom: 40px;
+  padding-top: 20px;
+}
+
+.formulario h1{
+  color: #0A0908;
+}
+
+.mensaje{
+  color: #FF6B6B;
+}
+

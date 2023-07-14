@@ -1,0 +1,12 @@
+.checkout {
+  background-color: #d9d9db;
+}
+.formulario {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.mensaje{
+  color: #49111C;
+}
